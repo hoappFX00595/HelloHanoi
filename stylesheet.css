@@ -97,6 +97,9 @@
     color: #777;
     text-decoration: none;
   }
+  .about {
+    text-align: center;
+  }
   .videoWrapper {
 	position: relative;
 	padding-bottom: 56.25%; 
